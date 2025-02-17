@@ -450,7 +450,7 @@ while moerkt:
                         print()
                         gyldig_kommando = True
 
-        elif tekst in ["plukk opp klærne", "plukk opp jakken", "plukk opp regnjakken", "ta jakken", "ta jakke", "ta regnjakken", "ta regnjakke", "ta klærne", "ta klær", "ta buksen", "plukk opp buksen", "ta oljebuksen", "plukk opp oljebuksen", "ta sydvest", "ta sydvesten", "plukk opp sydvest", "plukk opp sydvest"]:
+        elif tekst in ["ta på klær", "ta på klærne", "ta på deg klær", "ta på deg klærne", "ta opp klær", "plukk opp klærne", "plukk opp jakken", "plukk opp regnjakken", "ta jakken", "ta jakke", "ta regnjakken", "ta regnjakke", "ta klærne", "ta klær", "ta buksen", "plukk opp buksen", "ta oljebuksen", "plukk opp oljebuksen", "ta sydvest", "ta sydvesten", "plukk opp sydvest", "plukk opp sydvest"]:
             if aapenKiste: 
                 if not harKlaer:
                     harKlaer = True
