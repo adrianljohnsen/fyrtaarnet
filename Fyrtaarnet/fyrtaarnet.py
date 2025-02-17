@@ -102,7 +102,7 @@ while moerkt:
             print()
             gyldig_kommando = True
 
-    elif tekst in ["sjekk lampen", "sjekk lampa", "se på lampen", "sjekk parafin", "undersøk lampen", "sjekk parafinlampen", "se på parafinlampen", "sjekk parafin", "undersøk parafinlampen", "sjekk parafinlampa"]:
+    elif tekst in ["sjekk lampen", "sjekk lampe", "sjekk lampa", "se på lampen", "sjekk parafin", "undersøk lampen", "sjekk parafinlampen", "se på parafinlampen", "undersøk parafinlampen", "sjekk parafinlampa"]:
         if harLykt:
             if not tentLykt:
                 print("Lampen er full av parafin, men den er ikke tent")
