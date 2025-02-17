@@ -6,6 +6,9 @@ Det er et element av tid involvert. Fra et visst punkt i spillet har du bare et 
 
 Dette kan du overvåke. Hvordan, kan du finne ut selv.
 
+For å starte spillet:
+
+i powershell, naviger til mappen der spillet ligger, og start spillet ved å skrive python fyrtaarnet.py
 
 tips:
 
